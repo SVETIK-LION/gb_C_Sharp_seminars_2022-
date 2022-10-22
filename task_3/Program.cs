@@ -4,6 +4,7 @@
 -3 -> нет
 7 -> нет */
 
+
 Console.Clear();
 
 Console.WriteLine("Введите число: ");
