@@ -10,11 +10,11 @@
 
 
 Console.WriteLine("Введите количество строк массива:");
-int n = Convert.ToInt32(Console.ReadLine());
+int rows = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов массива:");
-int m = Convert.ToInt32(Console.ReadLine());
+int columns = Convert.ToInt32(Console.ReadLine());
 
-int[,] numbers = new int[n, m];
+int[,] numbers = new int[rows, columns];
 FillArrayRandomNumbers(numbers);
 
 Console.Write("Среднее арифметическое каждого столбца: ");
@@ -25,7 +25,7 @@ for (int j = 0; j < numbers.GetLength(1); j++)
     {
         avarage = (avarage + numbers[i, j]);
     }
-    avarage = avarage / n;
+    avarage = avarage / rows;
     Console.Write(avarage + "; ");
 }
 Console.WriteLine();
