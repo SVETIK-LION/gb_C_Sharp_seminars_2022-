@@ -1,0 +1,15 @@
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/bin/Debug/net6.0/task_5
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/bin/Debug/net6.0/task_5.deps.json
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/bin/Debug/net6.0/task_5.runtimeconfig.json
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/bin/Debug/net6.0/task_5.dll
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/bin/Debug/net6.0/task_5.pdb
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.csproj.AssemblyReference.cache
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.AssemblyInfoInputs.cache
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.AssemblyInfo.cs
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.csproj.CoreCompileInputs.cache
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.dll
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/refint/task_5.dll
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.pdb
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/task_5.genruntimeconfig.cache
+/Users/SVETIK/VSC_Progects/gb_C_Sharp_seminars_2022-/task_5/obj/Debug/net6.0/ref/task_5.dll
